@@ -1,0 +1,5 @@
+ 1 egg 50 2
+ 3 biscuit 40 3
+ 4 sugar 100 4
+ 5 noodles 200 5
+11pasta1004
